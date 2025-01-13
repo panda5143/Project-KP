@@ -1,7 +1,7 @@
 {{-- resources/views/pages/home.blade.php --}}
 <x-app-layout>
     <!-- Hero Section tetap sama -->
-    <div class="relative h-[600px] overflow-hidden">
+    <div class="relative h-[830px] overflow-hidden">
         <img 
             src="{{ asset('images/office-building.jpg') }}" 
             alt="DISDIKBUDPORA Office" 
