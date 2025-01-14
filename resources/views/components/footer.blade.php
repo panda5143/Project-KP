@@ -1,7 +1,7 @@
 <footer class="bg-[#940000] text-white py-8">
     <div class="container mx-auto px-4">
         <div class="flex items-center mb-8">
-            <img src="{{ asset('images/Kab.Semarang.png') }}" alt="Dinas Logo" class="h-16 w-auto max-w-full object-contain">
+            <img src="{{ asset('images/logo.png') }}" alt="Dinas Logo" class="h-16 w-16">
             <h2 class="ml-4 text-lg font-inter">Dinas Pendidikan, Kebudayaan, Kepemudaan, dan Olahraga Kabupaten Semarang</h2>
         </div>
         

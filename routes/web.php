@@ -4,6 +4,7 @@ use App\Http\Controllers\ProfileController;
 use Illuminate\Support\Facades\Route;
 
 Route::get('/', function () {
+<<<<<<< HEAD
     return view('welcome');
 });
 
@@ -18,3 +19,7 @@ Route::middleware('auth')->group(function () {
 });
 
 require __DIR__.'/auth.php';
+=======
+    return view('pages.home');
+});
+>>>>>>> parent of 2ff2c1d (ueueu)

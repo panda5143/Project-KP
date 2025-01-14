@@ -2,7 +2,7 @@
 <div class="w-full bg-[#E40004] shadow-md">
     <div class="container mx-auto px-4 py-3 flex justify-between items-center">
         <div class="flex items-center space-x-2">
-            <img src="{{ asset('images/Kab.Semarang.png') }}" alt="DIASTRA Logo" class="max-h-16 max-w-full object-contain">
+            <img src="{{ asset('images/logo.png') }}" alt="DIASTRA Logo" class="h-12 w-12 md:h-16 md:w-16">
             <span class="text-white text-xl md:text-2xl font-inter font-bold">DIASTRA</span>
         </div>
 
