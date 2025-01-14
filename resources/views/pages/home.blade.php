@@ -3,7 +3,7 @@
     <!-- Hero Section tetap sama -->
     <div class="relative h-[830px] overflow-hidden">
         <img 
-            src="{{ asset('resources/img/Kab.Semaramg.png') }}" 
+            src="{{ asset('images/homee.jpeg') }}" 
             alt="DISDIKBUDPORA Office" 
             class="absolute w-full h-full object-cover"
         >
@@ -27,7 +27,7 @@
                 <div class="bg-white rounded-lg shadow-lg overflow-hidden group hover:shadow-xl transition-shadow duration-300">
                     <div class="relative h-48 overflow-hidden">
                         <img 
-                            src="{{ asset('images/school-data.jpg') }}" 
+                            src="{{ asset('images/invenskola.jpg') }}" 
                             alt="School Data Information" 
                             class="w-full h-full object-cover"
                         >
@@ -51,7 +51,7 @@
                 <div class="bg-white rounded-lg shadow-lg overflow-hidden group hover:shadow-xl transition-shadow duration-300">
                     <div class="relative h-48 overflow-hidden">
                         <img 
-                            src="{{ asset(path: 'images/inventory-report.jpg') }}" 
+                            src="{{ asset(path: 'images/invenbar.jpeg') }}" 
                             alt="Inventory Report" 
                             class="w-full h-full object-cover"
                         >
