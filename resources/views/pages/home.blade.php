@@ -3,7 +3,7 @@
     <!-- Hero Section tetap sama -->
     <div class="relative h-[830px] overflow-hidden">
         <img 
-            src="{{ asset('images/office-building.jpg') }}" 
+            src="{{ asset('resources/img/Kab.Semaramg.png') }}" 
             alt="DISDIKBUDPORA Office" 
             class="absolute w-full h-full object-cover"
         >
